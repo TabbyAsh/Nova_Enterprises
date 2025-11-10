@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.poetry/
+.mypy_cache/
+.pytest_cache/
+ruff_cache/
+.idea/
+.vscode/
+dist/
+build/
+coverage.xml
+htmlcov/
+.DS_Store
